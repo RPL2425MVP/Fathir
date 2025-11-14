@@ -1,1 +1,0 @@
-<meta http-equiv="refresh" content="0.5; url=Klinik keluarga/Home.php">
